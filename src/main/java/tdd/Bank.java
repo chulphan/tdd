@@ -3,7 +3,7 @@ package tdd;
 import java.util.Hashtable;
 
 class Bank {
-    private Hashtable rates = new Hashtable();
+    private Hashtable<Object, Object> rates = new Hashtable<Object, Object>();
 
     Money reduce(Expression source, String to) {
         return source.reduce(this, to);
