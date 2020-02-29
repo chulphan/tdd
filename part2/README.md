@@ -1,7 +1,7 @@
 # Test-Driven Development By Example Part2
 
 ## Todo
-    ~~ 테스트 메소드 호출하기 ~~
+    ~~테스트 메소드 호출하기~~
     
     먼저 setUp 호출하기
     
